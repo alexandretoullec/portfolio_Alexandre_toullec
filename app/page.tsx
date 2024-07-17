@@ -18,8 +18,8 @@ export default function Home() {
         <Hero />
         <Grid />
         <RecentProject />
-        <Clients />
-        <Experience />
+        {/* <Clients /> */}
+        {/* <Experience /> */}
         <Approach />
         <Footer />
       </div>
